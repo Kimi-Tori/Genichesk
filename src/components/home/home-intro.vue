@@ -20,7 +20,7 @@ export default {
 <style lang="scss">
 .home-intro {
   min-height: 300px;
-  background-image: url(../../../public/assets/home/home-intro-background.jpg);
+  background-image: url(@/assets/home/home-intro-background.jpg);
   background-size: cover;
   background-position: center center;
 
